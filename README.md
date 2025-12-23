@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Antonio Díaz Barbancho  
-**Computer Engineer | Cloud & SRE Specialist**  
+**Platform engineer**  
 
 I'm a Computer Engineer with a strong focus on Site Reliability Engineering (SRE) and cloud infrastructure optimization. I specialize in building and maintaining scalable, reliable systems using Kubernetes, automation tools, and cloud platforms like Azure and AWS. I am passionate about ensuring the high availability, reliability, and performance of mission-critical applications.
 
