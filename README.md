@@ -1,14 +1,30 @@
-# 👋 Hi, I'm Antonio Díaz Barbancho  
-**Platform engineer**  
+# Senior Platform Engineer | Infrastructure & Automation
 
-I'm a Computer Engineer with a strong focus on Site Reliability Engineering (SRE) and cloud infrastructure optimization. I specialize in building and maintaining scalable, reliable systems using Kubernetes, automation tools, and cloud platforms like Azure and AWS. I am passionate about ensuring the high availability, reliability, and performance of mission-critical applications.
+I’m a **Senior Platform Engineer** with expertise in designing, building, and operating **scalable, reliable, and efficient platforms** that empower engineering teams. I focus on automation, infrastructure as code, and developer-friendly platforms to accelerate delivery and reduce operational overhead.
 
-### Key Skills:
-- **Cloud & DevOps**: Kubernetes, Azure, Docker, Terraform, ArgoCD  
-- **Scripting & Automation**: Python, Bash  
-- **Monitoring & Observability**: Prometheus, Grafana, Datadog  
-- **Infrastructure Management**: CI/CD pipelines, GitOps, Infrastructure as Code  
+## Core Expertise
 
-I have experience in migrating distributed systems to cloud-based infrastructures, implementing continuous deployment strategies, and ensuring optimal performance and security. I'm always looking for opportunities to innovate and improve infrastructure, making systems more efficient and reliable.
+**Platform Engineering & Automation**
+- Kubernetes, Docker, Helm, ArgoCD
+- CI/CD pipelines and platform tooling
 
-Feel free to explore my projects and connect with me!
+**Infrastructure as Code & GitOps**
+- Terraform, Helm charts, automated deployments
+- Self-service infrastructure for development teams
+
+**Observability & Performance**
+- Prometheus, Grafana, Datadog
+- Monitoring, alerting, and operational insights
+
+**Scripting & Tooling**
+- Python, Bash
+- Automation of repetitive tasks and platform workflows
+
+## Experience & Impact
+
+- Built **internal platforms and tooling** that accelerate development and reduce operational complexity
+- Implemented **GitOps strategies and infrastructure automation** at scale
+- Improved **performance, reliability, and efficiency** of production environments
+- Empowered teams to **deploy and operate services autonomously**
+
+I’m passionate about **building robust platforms**, **streamlining operations**, and creating **tools and infrastructure that make engineering teams more productive**.
