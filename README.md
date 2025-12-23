@@ -1,4 +1,4 @@
-# Senior Platform Engineer | Infrastructure & Automation
+# ⚙️ Senior Platform Engineer 
 
 I’m a **Senior Platform Engineer** with expertise in designing, building, and operating **scalable, reliable, and efficient platforms** that empower engineering teams. I focus on automation, infrastructure as code, and developer-friendly platforms to accelerate delivery and reduce operational overhead.
 
