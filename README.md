@@ -1,30 +1,28 @@
-# ⚙️ Senior Platform Engineer 
+# ⚙️ Technical Lead | AI Platform Architect
 
-I’m a **Senior Platform Engineer** with expertise in designing, building, and operating **scalable, reliable, and efficient platforms** that empower engineering teams. I focus on automation, infrastructure as code, and developer-friendly platforms to accelerate delivery and reduce operational overhead.
+I’m a **Technical Lead & AI Platform Architect** focused on designing and leading **cloud-native and AI platforms** that enable engineering teams to build, deploy, and operate systems at scale.
 
-## Core Expertise
+My work spans **Kubernetes, multi-cloud infrastructure, GitOps, observability, platform engineering, Applied AI, and Agentic AI**, combining architecture, hands-on engineering, and technical leadership.
 
-**Platform Engineering & Automation**
-- Kubernetes, Docker, Helm, ArgoCD
-- CI/CD pipelines and platform tooling
+I design secure, resilient, and scalable platforms across **Azure, AWS, and GCP**, and build AI architectures integrating **LLMs, RAG, agents, MCP, AI gateways, and open-source models**.
 
-**Infrastructure as Code & GitOps**
-- Terraform, Helm charts, automated deployments
-- Self-service infrastructure for development teams
+## Core Areas
 
-**Observability & Performance**
-- Prometheus, Grafana, Datadog
-- Monitoring, alerting, and operational insights
+- AI Platforms & Agentic AI
+- Kubernetes & Cloud-Native Architecture
+- Azure, AWS & GCP
+- Terraform, GitOps & Infrastructure Automation
+- LLMs, RAG, LangGraph, LangChain & MCP
+- CI/CD & Developer Platforms
+- Observability, Reliability & FinOps
+- Technical Leadership & Architecture
 
-**Scripting & Tooling**
-- Python, Bash
-- Automation of repetitive tasks and platform workflows
+## Open Source
 
-## Experience & Impact
+I’m passionate about the **open-source ecosystem** and actively contribute to and collaborate with cloud-native communities, especially around the **CNCF ecosystem**.
 
-- Built **internal platforms and tooling** that accelerate development and reduce operational complexity
-- Implemented **GitOps strategies and infrastructure automation** at scale
-- Improved **performance, reliability, and efficiency** of production environments
-- Empowered teams to **deploy and operate services autonomously**
+I enjoy building and sharing tools, exploring emerging technologies, and contributing to projects that improve how modern platforms and AI systems are built and operated.
 
-I’m passionate about **building robust platforms**, **streamlining operations**, and creating **tools and infrastructure that make engineering teams more productive**.
+---
+
+Building **cloud-native and AI platforms** that are scalable, reliable, open, and developer-friendly.
